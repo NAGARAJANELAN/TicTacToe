@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightblue;
+    font-family: cursive;
+}
+
+h1{
+    font-size: 490%;
+    font-family: cursive;
+    color: magenta;
+    margin: 70px;
+    margin-bottom: 150px;
+    text-shadow: 5px rgb(15, 8, 7);
+}
+td{
+    font-size: 950%;
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: -6px;
+    /* border: 4px solid transparent; */
+    color: crimson;
+}
+#A,#B,#D,#E,#G,#H{
+    border-right: 10px solid black;
+}
+#A,#B,#D,#E,#C,#F{
+    border-bottom: 10px solid black;
+}
+
+.fa{
+    margin-top: 250px;
+    color: lightcoral;
+    font-size: 800%;
+}
+
+#winner{
+    margin-top: 140px;
+    font-size: 450%;
+    color: coral;
+}
