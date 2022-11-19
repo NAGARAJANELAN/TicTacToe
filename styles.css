@@ -9,7 +9,7 @@ body{
 }
 
 h1{
-    font-size: 490%;
+    font-size: 530%;
     font-family: cursive;
     color: magenta;
     margin: 70px;
@@ -33,13 +33,13 @@ td{
 }
 
 .fa{
-    margin-top: 250px;
+    margin-top: 200px;
     color: lightcoral;
     font-size: 800%;
 }
 
 #winner{
     margin-top: 140px;
-    font-size: 450%;
+    font-size: 480%;
     color: coral;
 }
