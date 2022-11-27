@@ -5,12 +5,12 @@
 
 body{
     background-color: lightblue;
-    font-family: cursive;
+    font-family: 'Nerko One', cursive;
 }
 
 h1{
     font-size: 530%;
-    font-family: cursive;
+    font-family: 'Nerko One', cursive;
     color: magenta;
     margin: 70px;
     margin-bottom: 150px;
